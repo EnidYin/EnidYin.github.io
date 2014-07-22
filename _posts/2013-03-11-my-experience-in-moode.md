@@ -2,7 +2,7 @@
 layout: post
 title: 我在Moode的工作经历
 description: "初来乍到的敏捷新人聊敏捷，欢迎切戳."
-modified: 2013-03-18
+modified: 2013-03-11
 tags: [敏捷, Agile]
 image:
   feature: abstract-3.jpg
@@ -12,7 +12,8 @@ comments: true
 share: true
 ---
 
- 很幸运，在一个本该无聊透顶、死气沉沉的寒假，我得到了去Moode实习的机会，在真正的互联网服务公司，和真实的程序员们，做实实在在的项目。
+
+###很幸运，在一个本该无聊透顶、死气沉沉的寒假，我得到了去Moode实习的机会，在真正的互联网服务公司，和真实的程序员们，做实实在在的项目。
  
 我的实习职位是BA实习生。
 
