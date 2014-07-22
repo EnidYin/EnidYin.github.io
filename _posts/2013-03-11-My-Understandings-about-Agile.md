@@ -12,8 +12,7 @@ comments: true
 share: true
 ---
 
-在moode实习，另一个深切的感受是他们的工作流程。老板是敏捷开发践行者，带我的ThoughtWorker传授了完整的敏捷开发理念，在1999年，ThoughtWorks全面转向了敏捷开发，这个时间比敏捷宣言的提出还要早两年。敏捷和传统开发模式到底区别在哪呢？
-    
+在moode实习，另一个深切的感受是他们的工作流程。老板是敏捷开发践行者，带我的ThoughtWorker传授了完整的敏捷开发理念，1999年，ThoughtWorks全面转向了敏捷开发，这个时间比敏捷宣言的提出还要早两年。敏捷和传统开发模式到底区别在哪呢？
 首先感受到的，是每日站会（以下简称“站会”）。站会的时间在每天刚上班的时候，每个人要讲自己昨天做了什么，遇到了什么问题，今天的任务是什么。起初的时候，我也没感觉这有什么，以为又是一种形式主义，后来才渐渐发现了站会的意义。这是一种透明度极高的工作方式，大家共享任务进度，共同解决遇到的问题。而且当你某天偷懒了的时候，你自己就会特别的清楚。一种共同监督和自我督促。所以每天早晨挤在北京有名的地铁一号线里的时候，脑子里想的是我站会要讲些什么，拎着早饭走在华彬前的胡同里，想的是我今天要做些什么。站会这种形式，确实是一种很好的督促~
 
 对于迭代，印象很深刻，从第一次去找老板进行痛点分析，到临走前去做的那次show case，老板每次都在不停的跟我讲迭代，他要的是MVP(Minimum Viable Product)，一次迭代要做的是最简可行化产品。
@@ -37,7 +36,7 @@ Show case后，客户会提出他们对于二次迭代的要求，然后就是�
 
 <figure>
 	<a href="/images/my-first-work-overtime.jpg"><img src="/images/my-first-work-overtime.jpg" alt=""></a>
-	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>贴张图片纪念下第一次加班。</figcaption>
+	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>At last,贴张图纪念下第一次加班。</figcaption>
 </figure>
 
 
