@@ -34,8 +34,20 @@ Show case后，客户会提出他们对于二次迭代的要求，然后就是�
 
 敏捷开发带给我的主要感受是快速迭代，这样我们才知道我们的产品是不是市场上所需要的，而且也会大大减小开发的成本和代价。相对于传统开发模式，优势还是很大的。
 
-<figur>
-    <a href="/images/my-first-work-overtime.jpg"><img src="/images/my-first-work-overtime.jpg"/></a>
-    <figcaption><a href="/images/my-first-work-overtime.jpg"></a>Paste下第一次加班的北京一夜。Good Night.</figcaption>
-</figur>
+{% highlight html %}
 
+<figure class="half">
+    <a href="/images/my-first-work-overtime.jpg"><img src="/images/my-first-work-overtime.jpg" alt=""/></a>
+    Paste下第一次加班的北京一夜。Good Night.
+</figure>
+
+{% endhighlight html %}
+
+{% highlight html %}
+<figure class="third">
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+{% endhighlight %}
