@@ -37,7 +37,7 @@ Show case后，客户会提出他们对于二次迭代的要求，然后就是�
 
 <figure>
 	<a href="/images/my-first-work-overtime.jpg"><img src="/images/my-first-work-overtime.jpg" alt=""></a>
-	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>.</figcaption>
+	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>贴张图片纪念下第一次加班。</figcaption>
 </figure>
 
 
