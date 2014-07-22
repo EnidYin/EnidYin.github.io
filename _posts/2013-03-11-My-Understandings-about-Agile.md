@@ -36,8 +36,8 @@ Show case后，客户会提出他们对于二次迭代的要求，然后就是�
 
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt=""></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="/images/my-first-work-overtime.jpg"><img src="/images/my-first-work-overtime.jpg" alt=""></a>
+	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>.</figcaption>
 </figure>
 
 
