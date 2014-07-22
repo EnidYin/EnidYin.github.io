@@ -28,7 +28,7 @@ share: true
 
 Show case对我来说，也是一段血泪史。第一次去的时候，其实根本不知道要说什么，然后就一个按钮一个按钮的跟老板解释。哎~老板的心思太难捉摸了，天知道他想要看的是哪些功能。我演示了半天，老板说，这些不是我想看的，我要的功能呢？这次演示我要给你一个叉子。然后我就又被乖乖的教育了一个小时，还好有好脾气的守波哥哥，跟我说我做的第一次show case已经不错了~还和我说老吴不该中途总是打断我的。每次从老板办公室出来都是一身汗。
 
-然后守波哥就和我去了小屋，研究如何做一个好的showcase，老吴想要的show case到底是什么样的。一个好的showcase需要把我们的产品用一个故事串联起来，演示给客户。为了保证真实性和参与性，现场的每个人可以就是故事里的人物。然后在演示过程中，观察你的客户，看在你讲哪些功能的时候他会特别关心，哪些不在意。这种东西，还真是得慢慢悟啊。直到最后，老吴跟我说，这一次我还是要给你一个不及格。哎~幸好已经不是给我一个叉子了。阿Q一下好了~
+然后守波哥就和我去了小屋，研究如何做一个好的showcase，老板君想要的show case到底是什么样的。一个好的showcase需要把我们的产品用一个故事串联起来，演示给客户。为了保证真实性和参与性，现场的每个人可以就是故事里的人物。然后在演示过程中，观察你的客户，看在你讲哪些功能的时候他会特别关心，哪些不在意。这种东西，还真是得慢慢悟啊。直到最后，老板君跟我说，这一次我还是要给你一个不及格。哎~幸好已经不是给我一个叉子了。阿Q一下好了~
 
 Show case后，客户会提出他们对于二次迭代的要求，然后就是重复以上的过程了。
 
@@ -43,11 +43,3 @@ Show case后，客户会提出他们对于二次迭代的要求，然后就是�
 
 {% endhighlight html %}
 
-{% highlight html %}
-<figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-{% endhighlight %}
