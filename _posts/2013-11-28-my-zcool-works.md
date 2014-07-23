@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Works in Zool
+title: My Works in Zcool
 description: "Just Be Yourself"
 modified: 2013-11-28
 tags: [icon]
@@ -14,4 +14,6 @@ share: true
 
 My Works In ZOOL
 
-<img src="/images/Men%60s%20Suit%20Icon.png"/>
+<div style="text-align:center">
+    <img width="400px" src="/images/Men%60s%20Suit%20Icon.png"/>
+</div>
