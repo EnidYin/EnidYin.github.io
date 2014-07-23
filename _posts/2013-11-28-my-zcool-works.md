@@ -3,7 +3,7 @@ layout: post
 title: My Works in Zcool
 description: "Just Be Yourself"
 modified: 2013-11-28
-tags: [icon]
+tags: [icons]
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
@@ -14,10 +14,12 @@ share: true
 
 My Works In ZOOL
 
+####icons
+
 <div style="text-align:center">
     <img width="300px" src="/images/Men%60s%20Suit%20Icon.png"/>
     <img width="300px" src="/images/music_pic.png"/>
 </div>
 
-<p>欢迎小伙伴们来ZCool抡砖点赞！</p></n>
-<a href="http://www.zcool.com.cn/work/ZMjkzODg2MA==.html">戳这里，来来来来</a>
+欢迎小伙伴们来ZCool抡砖点赞！
+<a href="http://www.zcool.com.cn/work/ZMjkzODg2MA==.html">Welcome</a>

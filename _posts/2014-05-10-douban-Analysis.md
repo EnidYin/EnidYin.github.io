@@ -3,7 +3,7 @@ layout: post
 title: 豆瓣产品与免费
 description: "尹毛线来分（pen）析（pen）豆瓣"
 modified: 2014-05-10
-tags: [免费, 豆瓣，产品分析]
+tags: [产品分析]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -35,9 +35,6 @@ P.s：书评部分特别显示了“最有用的好评”和“最有用的中�
 
 <figure>
 	<a href="/images/blog/douban.png"><img src="/images/blog/douban.png" alt=""></a>
-<!--
-	<figcaption><a href="/images/my-first-work-overtime.jpg" title="My first work overtime experience"></a>At last,贴张图纪念下第一次加班。</figcaption>
--->
 </figure>
 
 

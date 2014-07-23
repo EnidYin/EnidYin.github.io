@@ -3,7 +3,7 @@ layout: post
 title: 做不被世界改变的人
 description: "Just Be Yourself"
 modified: 2013-03-30
-tags: [自由, 杂谈]
+tags: [毛线杂谈]
 image:
   feature: abstract-4.jpg
   credit: dargadgetz

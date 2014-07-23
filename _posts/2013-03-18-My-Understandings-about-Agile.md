@@ -3,7 +3,7 @@ layout: post
 title: 我感受的敏捷开发
 description: "初来乍到的敏捷新人聊敏捷，欢迎切戳."
 modified: 2013-03-18
-tags: [敏捷, Agile]
+tags: [敏捷]
 image:
   feature: abstract-8.jpg
   credit: dargadgetz

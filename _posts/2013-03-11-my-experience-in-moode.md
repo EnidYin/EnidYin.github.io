@@ -3,7 +3,7 @@ layout: post
 title: 我在Moode的工作经历
 description: "初来乍到的敏捷新人聊敏捷，欢迎切戳."
 modified: 2013-03-11
-tags: [敏捷, Agile]
+tags: [敏捷]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
