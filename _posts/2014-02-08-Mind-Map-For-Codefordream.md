@@ -18,6 +18,6 @@ CodeSchool CodeCademy TeamTreeHouse JS课程对比脑图分析
 </div>
 
 
-<a href="http://teamtreehouse.com/"><img src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/TeamTreeHouse%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90.jpg"/>http://teamtreehouse.com/</a>
-<a href="http://www.codecademy.com/"><img src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codecademy.png"/>http://www.codecademy.com/</a>
-<a href="https://www.codeschool.com/"><img src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codeschool.png"/>https://www.codeschool.com/</a>
+<a href="http://teamtreehouse.com/"><img height="100px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/TeamTreeHouse%E7%BD%91%E7%AB%99%E5%88%86%E6%9E%90.jpg"/>http://teamtreehouse.com/</a>
+<a href="http://www.codecademy.com/"><img height="100px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codecademy.png"/>http://www.codecademy.com/</a>
+<a href="https://www.codeschool.com/"><img height="100px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codeschool.png"/>https://www.codeschool.com/</a>
