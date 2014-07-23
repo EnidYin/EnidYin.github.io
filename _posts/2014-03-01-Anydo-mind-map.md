@@ -2,7 +2,7 @@
 layout: post
 title: AnyDo脑图分析
 description: "AnyDo产品脑图"
-modified: 2013-08-25
+modified: 2014-03-01
 tags: [脑洞患者的脑图们]
 image:
   feature: abstract-8.jpg
@@ -12,11 +12,11 @@ comments: true
 share: true
 ---
 
-<img src="/images/blog/2013-03-01-Anydo-mind-map/anydo.jpg"/>
+<img src="/images/blog/2013-03-01-Anydo-mind-map/anydo.jpg" />
 
 AnyDo脑图分析见下图。
 
 
 <figure>
-    <a href="/images/blog/2013-03-01-Anydo-mind-map/Any.Do%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90.jpg"><img src="/images/blog/2013-03-01-Anydo-mind-map/Any.Do%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90.jpg"/></a>
+    <a href="/images/blog/2013-03-01-Anydo-mind-map/Any.Do%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90.jpg" target="_blank"><img src="/images/blog/2013-03-01-Anydo-mind-map/Any.Do%E5%8A%9F%E8%83%BD%E5%88%86%E6%9E%90.jpg"/></a>
 </figure>
