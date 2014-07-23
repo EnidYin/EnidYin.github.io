@@ -15,5 +15,9 @@ share: true
 My Works In ZOOL
 
 <div style="text-align:center">
-    <img width="400px" src="/images/Men%60s%20Suit%20Icon.png"/>
+    <img width="300px" src="/images/Men%60s%20Suit%20Icon.png"/>
+    <img width="300px" src="/images/music_pic.png"/>
+    
+    <p>欢迎小伙伴们来ZCool抡砖点赞！</p></n>
+    <a href="http://www.zcool.com.cn/work/ZMjkzODg2MA==.html">戳这里，来来来来</a>
 </div>
