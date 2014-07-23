@@ -49,10 +49,11 @@ share: true
 如果从A地到C地一定要途经B地，那么一定要途经B地的理由是什么呢？这句略绕的话让我开始脑洞大开。让我们把这句话映射到实际的产品中来看，这也是我目前遇到的一个问题。
 
 当用户在未登录状态时访问主页，页面显示如下图：
-
+<div align="center">
 <figure>
-    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/homepage.gif"/>
+    <a><img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/homepage.gif"/></a>
 </figure>
+</div>
 
 顺着页面指向的箭头，点击头像，进入“完善个人信息”页面，如下图：
 
