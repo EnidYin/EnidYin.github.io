@@ -50,15 +50,20 @@ share: true
 
 当用户在未登录状态时访问主页，页面显示如下图：
 
-<img align="center" height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/homepage.gif"/>
+<figure>
+    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/homepage.gif"/>
+</figure>
 
 顺着页面指向的箭头，点击头像，进入“完善个人信息”页面，如下图：
 
-<img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/Improving-the-personal-information.png"/>
+<figure>
+    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/Improving-the-personal-information.png"/>
+</figure>
 
 问题出现，如果当前的未登录用户想要进行登录操作，需要在“完善个人信息”页面点击登录按钮才能进入登录页。就是上文提到的从A地到C地，却需要途经B地问题。但其实这名用户完全没有完善个人信息的需求，却需要每次都从完善信息页面绕一圈。Bad Experience!
-
-<img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/login.png"/>
+<figure>
+    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/login.png"/>
+</figure>
 
 我用一种略投机的方式解决这个问题，对调了登录和注册两个页面的逻辑顺序。也就是未登录状态的用户在主页点击头像，跳转到“登录”页，在登录页提供注册的入口。因为对大多数用户来说，注册是一次性的行为，而登录是频繁性行为。最初设计时的想法是，这是一款从无到有的产品，Iteration1的MVP产出后，首批用户的最初需求是注册，而我们的Iteration Speed又很快，会在下一版产品更新时将两个页面顺序进行互换。But，这样猜测用户心理和行为是不对的。
 
@@ -67,8 +72,9 @@ p.s:这款应用是放在Wap端的，并且程序内提供清除该域浏览器�
 所以解决方案是，如果需要频繁的从A地到B地，那么不如就建立起A地和B地的联系。
 
 ####2、这次真的来解放手指了
-
-<img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/personal-center.png"/>
+<figure>
+    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/personal-center.png"/>
+</figure>
 
 当我们在客户端修改昵称的时候，点击昵称文本框，页面左推到修改昵称页面，页面中只有一个编辑昵称的文本框，修改完成后，点击页面右上的【√】或【保存】按钮，完成昵称修改。我们一起来数一下这其中产生的点击行为：
 
@@ -77,14 +83,15 @@ p.s:这款应用是放在Wap端的，并且程序内提供清除该域浏览器�
 3.          修改昵称动作完毕，点击页面右上的【√】或【保存】按钮保存修改
 
 在我们的产品里，修改昵称操作只需一次点击。当昵称文本框内的内容产生修改，并保持该修改内容2秒钟不变后，程序自动将用户修改的昵称信息提交，并弹窗提示“昵称修改成功”，弹窗2s中淡出消失。
-
-<img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/personal-center-nickname-changed.PNG"/>
+<figure>
+    <img height="480" width="320" src="/images/blog/2014-07-01-My-Design-World/personal-center-nickname-changed.PNG"/>
+</figure>
 
 所以我做的后台不够漂亮，但客户在说实用，这对我这种一路自学摸索过来的伪设计来说，真的比什么话都动听。我做的前台界面还是会有逻辑略微背离用户习惯的部分，我知道一个好的产品经理，首先要热爱自己的产品，不断使用产品，带给产品功能或流程上的革新。
 
 对扁平化结构的界面的偏爱，也着实让我的设计里走不出扁平化的图标按钮，多说一句，我还是Lumia920的首批用户。欢迎抡砖。
 
 欢迎来微博看我的更多面
-<a height="480" width="320" href="http://weibo.com/EnidYin">地址戳这里</a>
+<a height="480" width="320" href="http://weibo.com/EnidYin" target="_blank">地址戳这里</a>
 
 
