@@ -3,7 +3,7 @@ layout: post
 title: 小窥餐饮业
 description: "吃货来干点实事儿"
 modified: 2013-08-25
-tags: [餐饮，产品分析]
+tags: [毛线杂谈]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
