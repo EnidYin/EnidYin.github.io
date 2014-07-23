@@ -24,7 +24,5 @@ p.s：TeamTreeHouse家的免费体验隐藏的很深..很深.. 请做好被蹂�
 
 ####友情链接：
 <a href="http://teamtreehouse.com/"><img width="50px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/teamtreehouse.png"/></a>
-
 <a href="http://www.codecademy.com/"><img width="75px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codecademy.png"/></a>
-
 <a href="https://www.codeschool.com/"><img width="50px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codeschool.png"/></a>
