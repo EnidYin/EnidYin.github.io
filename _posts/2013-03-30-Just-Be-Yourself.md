@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-<iframe width="510" height="498" src="http://player.youku.com/embed/XNTMxNDc4MjA0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="600" height="498" src="http://player.youku.com/embed/XNTMxNDc4MjA0" frameborder="0" allowfullscreen> </iframe>
 
 这是最近一个挺热门的视频，看第一遍的时候，感觉好振奋人心，内心共鸣强烈。但是看过第二遍后，特别是看了视频中提到的电影《死亡诗社》后，悲哀已经超越了共鸣。
 
