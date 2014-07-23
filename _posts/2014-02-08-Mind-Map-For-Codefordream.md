@@ -13,8 +13,10 @@ share: true
 ---
 CodeSchool CodeCademy TeamTreeHouse JS课程对比脑图分析
 
-<a href="/images/blog/2014-02-08-Mind-Map-For-Codefordream/Code%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%E7%9A%84JS%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.jpg"><img src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/Code%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%E7%9A%84JS%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.jpg"/></a>
+<a href="/images/blog/2014-02-08-Mind-Map-For-Codefordream/Code%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%E7%9A%84JS%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.jpg" target="_blank"><img src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/Code%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99%E7%9A%84JS%E8%AF%BE%E7%A8%8B%E6%AF%94%E8%BE%83-%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90.jpg"/></a>
 
-<a href="http://teamtreehouse.com/"><img width="100px" height="30px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/teamtreehouse.png"/></a>
-<a href="http://www.codecademy.com/"><img width="150px" height="30px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codecademy.png"/></a>
-<a href="https://www.codeschool.com/"><img width="100px" height="30px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codeschool.png"/></a>
+
+友情链接：
+<a href="http://teamtreehouse.com/"><img width="50px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/teamtreehouse.png"/></a>
+<a href="http://www.codecademy.com/"><img width="75px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codecademy.png"/></a>
+<a href="https://www.codeschool.com/"><img width="50px" height="15px" src="/images/blog/2014-02-08-Mind-Map-For-Codefordream/codeschool.png"/></a>
