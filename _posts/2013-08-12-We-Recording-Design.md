@@ -23,6 +23,7 @@ share: true
 </div>
 
 微录音设计稿
+
 <div style="text-align:center">
     <figure>
         <a><img src="/images/blog/2013-08-12-We-Recording-Design/before-record.png"/></a>
