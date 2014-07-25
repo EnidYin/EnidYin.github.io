@@ -12,15 +12,7 @@ comments: true
 share: true
 ---
 
-微录音是一款应用于Iphone的录音轻应用，使用了Google的语音识别技术，语音识别更精准，便于用户在不方便打字的情况下发送文字信息。
-
-微录音icon
-
-<div style="text-align:center">
-    <figure>
-        <a href="/images/blog/2013-08-12-We-Recording-Design/50.PNG"/><img src="/images/blog/2013-08-12-We-Recording-Design/50.PNG"/></a>
-    </figure>
-</div>
+微录音是一款应用于IPhone的录音轻应用，使用了Google的语音识别技术，语音识别更精准，便于用户在不方便打字的情况下发送文字信息。
 
 微录音交互稿
 
@@ -31,12 +23,13 @@ share: true
 </div>
 
 微录音设计稿
-
-<figure>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/before-record.png"/></a>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/recording.png"/></a>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/translate.png" /></a>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/edit.PNG"/></a>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/edit-English.png"/></a>
-    <a><img src="/images/blog/2013-08-12-We-Recording-Design/history.PNG"/></a>
-</figure>
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/before-record.png"/></a>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/recording.png"/></a>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/translate.png" /></a>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/edit.PNG"/></a>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/edit-English.png"/></a>
+        <a><img src="/images/blog/2013-08-12-We-Recording-Design/history.PNG"/></a>
+    </figure>
+</div>
