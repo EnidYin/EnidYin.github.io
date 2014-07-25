@@ -18,7 +18,7 @@ share: true
 
 <div style="text-align:center">
     <figure>
-        <a href="/images/blog/2013-08-12-We-Recording-Design/sound%20recognition.png"><img src="/images/blog/2013-08-12-We-Recording-Design/sound%20recognition.png" /></a>
+        <a href="/images/blog/2013-08-12-We-Recording-Design/sound%20recognition.png" target="_blank"><img src="/images/blog/2013-08-12-We-Recording-Design/sound%20recognition.png" /></a>
     </figure>
 </div>
 
