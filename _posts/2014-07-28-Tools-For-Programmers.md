@@ -21,7 +21,7 @@ MarkMan具有长度标记，坐标和矩阵标记，色值标记，文字标记�
 马克鳗使用Adobe AIR的跨平台技术，只要你的系统安装了Adobe AIR运行时，就能够正常安装和使用马克鳗。
 如果你安装了flash播放器，点击官网的下载按钮之后，就可以根据提示自动安装马克鳗。
 
-<a href="http://www.getmarkman.com/">戳这里去下载</a>
+<a href="http://www.getmarkman.com/"><font color="blue" >戳这里去下载</font></a>
 
 <div style="align-text:center">
     <figure>
