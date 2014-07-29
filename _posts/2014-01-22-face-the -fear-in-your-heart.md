@@ -12,12 +12,6 @@ comments: true
 share: true
 ---
 
-<div style="text-align:center">
-    <figure>
-        <img src="/images/blog/face-the-fear-in-your-heart.jpg"/>
-    </figure>
-</div>
-
 昨天读完了分裂型人格 然后度过了我人生中最恐惧无助的半小时 
 　　 
 原谅我读这类心理学的书喜欢对号入座 看过之后还想要深入其中体验一番 
@@ -30,3 +24,9 @@ share: true
 　　 
 但是这本书里只是罗列了症状和产生原因 给出的药方就是学着做自己 有点略扯
 
+
+<div style="text-align:center">
+    <figure>
+        <img src="/images/blog/face-the-fear-in-your-heart.jpg"/>
+    </figure>
+</div>
