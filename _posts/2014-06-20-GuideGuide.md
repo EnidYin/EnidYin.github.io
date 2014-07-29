@@ -2,7 +2,7 @@
 layout: post
 title: 工具推荐To设计师——GuideGuide
 description: "工具推荐GuideGuide"
-modified: 2014-07-29
+modified: 2014-06-20
 tags: [工具推荐]
 image:
   feature: abstract-6.jpg
@@ -38,3 +38,4 @@ Ps插件那么多，Po主还曾因为装了某插件享受每十分钟崩溃一�
 <div style="text-align:center">
     <img src="/images/blog/2014-07-29/interface-introduction.png"/>
 </div>
+
