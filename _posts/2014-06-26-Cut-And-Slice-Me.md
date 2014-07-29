@@ -2,7 +2,7 @@
 layout: post
 title: 工具推荐To设计师——Cut And Slice Me
 description: "工具推荐Cut And Slice Me"
-modified: 2014-06-20
+modified: 2014-06-26
 tags: [工具推荐]
 image:
   feature: abstract-3.jpg
