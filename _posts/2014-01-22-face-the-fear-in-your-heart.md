@@ -31,3 +31,9 @@ share: true
 但是这本书里只是罗列了症状和产生原因 给出的药方就是学着做自己 有点略扯
 
 <a href="http://book.douban.com/subject/2282946/"><font color="#259235">豆瓣书评直通车</font></a>
+
+欢迎来豆瓣看我：）逛得多发的少
+
+id：<a href="http://www.douban.com/people/50180561/" >EnidYin</a>
+
+avatar:<img src="/images/wanzi.jpg"/>
