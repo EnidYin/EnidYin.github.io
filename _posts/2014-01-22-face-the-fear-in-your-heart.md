@@ -14,7 +14,7 @@ share: true
 
 <div style="text-align:center">
     <figure>
-        <img src="/images/blog/face-the-fear-in-your-heart.jpg"/>
+        <a><img src="/images/blog/face-the-fear-in-your-heart.jpg"/></a>
     </figure>
 </div>
 
@@ -36,4 +36,4 @@ share: true
 
 id：<a href="http://www.douban.com/people/50180561/" >EnidYin</a>
 
-avatar:<img src="/images/wanzi.jpg"/>
+<img src="/images/wanzi.jpg"/>
