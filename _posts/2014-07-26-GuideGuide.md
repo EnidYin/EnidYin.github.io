@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 工具推荐To设计师
-description: "工具推荐To设计师"
+title: 工具推荐To设计师——GuideGuide
+description: "工具推荐GuideGuide"
 modified: 2014-07-29
 tags: [工具推荐]
 image:
@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-Ps插件那么多，Po主还曾因为装了某插件享受每十分钟崩溃一次的PhotoShop（傲娇的说一句：我用的PhotoShopCS6是正版的），下面来推荐几款常用并且好用的插件。
+Ps插件那么多，Po主还曾因为装了某插件享受每十分钟崩溃一次的PhotoShop（傲娇的说一句：我用的PhotoShopCS6是正版的），【工具推荐】Part将为大家推荐好用的Ps插件们。下
 
 下载请戳下文中链接，Po主相当腹黑，链接藏在哪里藏完之后我也不知道了。
 
