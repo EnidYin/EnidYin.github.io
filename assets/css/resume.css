@@ -10,7 +10,7 @@ body{
 }
 
 .content{
-    height: 2000px;
+    height: 1680px;
     width: 980px;
     background-color: #fdfcf4;
     margin: auto;
@@ -161,7 +161,7 @@ header{
 }
 .my_experience{
     width: auto;
-    height: 500px;
+    height: 230px;
 }
 .my_experience hr{
     width: 90%;
@@ -177,19 +177,12 @@ header{
     left: 50px;
     top: 20px;
     border-bottom: 1px;
-/*
-    border-top: 0px;
-    border-left:  1px;
-    border-right:  1px;
-    border-style:  solid;
-    border-color: gray;
-*/
-
-/*
-    border: 1px solid gray;
-*/
     float: left;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    color: gray;
+    text-align: center;
 }
+
 .BA_title{
     width: 100%;
     height: 40px;
@@ -199,7 +192,7 @@ header{
 }
 .BA_content{
     width: 100%;
-    height: 190px;
+    height: 130px;
     float: left;
     border-left: 2px;
     border-bottom: 2px;
@@ -207,6 +200,10 @@ header{
     border-right: 0px;
     border-style: solid;
     border-color: #ffe879;
+    background-color: white;
+}
+.BA_content p{
+    margin-top: 30px;
 }
 .PM_title{
     width: 100%;
@@ -216,8 +213,8 @@ header{
     text-align: center;
 }
 .PM_content{
-    width: 290px;
-    height: 190px;
+    width: 292px;
+    height: 130px;
     float: left;
     border-left: 2px;
     border-bottom: 2px;
@@ -225,6 +222,17 @@ header{
     border-right: 0px;
     border-style: solid;
     border-color: #fdcb40;
+    background-color: white;
+}
+.content_detail{
+    width: auto;
+    height: 100px;
+    margin-top: 30px;
+}
+.content_detail p{
+    position: relative;
+    top: 0px;
+    margin-top: 0px
 }
 .office_principal_title{
     width: 100%;
@@ -234,8 +242,8 @@ header{
     text-align: center;
 }
 .office_principal_content{
-    width: 100%;
-    height: 190px;
+    width: 290px;
+    height: 130px;
     float: left;
     border-left: 2px;
     border-bottom: 2px;
@@ -243,6 +251,7 @@ header{
     border-right: 2px;
     border-style: solid;
     border-color: #fed667;
+    background-color: white;
 }
 .title_content{
     width: 100%;
@@ -415,15 +424,6 @@ header{
     width: 100%;
     height: 50px;
     margin-left: 50px;
-/*
-    margin-top: 100px;
-*/
-    
-/*
-    border-width: 2px;
-    border-color: black;
-    border-style: solid;
-*/
 }
 .first{
     width: 8%;
