@@ -40,12 +40,37 @@ header{
 }
 .english-name{
     width: auto;
+    float: left;
+    position: relative;
+    top:  15px;
 }
 .english-name p{
     color: gray;
     font-size: 80px;
     margin-left: 40px;
     width: auto;
+}
+.scan_me{
+    position: relative;
+    width:auto;
+    height: 120px;
+    float: left;
+    top: 20px;
+}
+
+.qrcode{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    left: 20px;
+    float: left;
+}
+.scan_me p{
+    float: left;
+    color: darkgray;
+    position: relative;
+    top: 40px;
+    left: 50px;
 }
 
 .header_right{
@@ -114,11 +139,12 @@ header{
 
 .middle{
     width: auto;
-    height: 300px;
+    height: 320px;
 }
 
 .middle_left{
     width: 50%;
+    height: 300px;
     float: left;
 }
 .personal_information{
