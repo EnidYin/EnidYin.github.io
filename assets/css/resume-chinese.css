@@ -1,7 +1,14 @@
 html{
     background-color: white;   
 }
-
+a{
+    color:gray;
+    font-family: 微软雅黑,sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
 body{
     width:1024px;
     height: auto;
@@ -9,13 +16,6 @@ body{
     margin: auto;
     font-family: 微软雅黑;
 }
-a{
-/*
-    text-decoration:none;
-*/
-    color:black;
-}
-
 .content{
     height: 1550px;
     width: 980px;

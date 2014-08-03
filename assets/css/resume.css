@@ -9,10 +9,12 @@ body{
     margin: auto;
 }
 a{
-/*
-    text-decoration:none;
-*/
-    color:black;
+    color:gray;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
 }
 
 .content{
@@ -69,7 +71,7 @@ header{
     float: left;
     color: darkgray;
     position: relative;
-    top: 40px;
+    top: 50px;
     left: 50px;
 }
 
