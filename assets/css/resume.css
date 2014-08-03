@@ -197,9 +197,32 @@ header{
 .skill_image img{
     margin-left: 40px;
 }
+.job_objective{
+    width: 90%;
+    height: 170px;
+    float: left;
+}
+.job_objective hr{
+    width: 100%;
+    margin-left: 50px;
+    border-top:1px;
+    border-style:dashed;
+    border-color: gray;
+}
+.job_objective_content{
+/*
+    width: 200px;
+    height: 30px;
+*/
+    margin-left: 30px;
+    font-family:Geometr706 BlkCn BT,sans-serif;
+    color: black;
+    line-height: 2;
+}
 .my_experience{
     width: auto;
-    height: 230px;
+    height: 250px;
+    float: left;
 }
 .my_experience hr{
     width: 90%;
@@ -542,6 +565,7 @@ header{
     background-color: #ff7000;
     float: left;
 }
+
 .my_rewards{
     width: 90%;
     height: 260px;
