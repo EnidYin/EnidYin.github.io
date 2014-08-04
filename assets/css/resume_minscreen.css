@@ -3,7 +3,7 @@ html{
 }
 
 @media (min-width:300px) and (max-width: 1023px)  {
-    body{
+   body{
     width:90%;
     height: auto;
     background-color: white;
@@ -20,7 +20,7 @@ a:hover{
 
 .content{
     height: 1680px;
-    width: 90%;
+    width: 100%;
     background-color: #fdfcf4;
     margin: auto;
     -webkit-box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
@@ -30,12 +30,12 @@ a:hover{
 
 header{
     width: 980px;
-    height: 400px;
+    height: 230px;
 }
 
 .header_left{
-    width: 90%;
-    height: 180px;
+    width: 40%;
+    height: 200px;
     font-family: Britannic Bold,sans-serif;
     margin-left: 10px;
     float: left;
@@ -49,8 +49,8 @@ header{
 }
 .english-name p{
     color: gray;
-    font-size: 60px;
-    margin-left: 20px;
+    font-size: 80px;
+    margin-left: 40px;
     width: auto;
 }
 .scan_me{
@@ -77,8 +77,8 @@ header{
 }
 
 .header_right{
-    width: 90%;
-    height: 240px;
+    width: 30%;
+    height: 230px;
     margin-right: 10px;
     float: left;
 }
@@ -86,9 +86,9 @@ header{
 .contact{
     width: 140px;
     height: 30px;
-    float: left;
-    margin-left:40px;
-    margin-top: 10px;
+    float: right;
+    margin-bottom: 10px;
+    margin-top: 20px;
     color: gray;
     font-family: Geometr706 BlkCn BT,sans-serif;
     font-size: 25px;
@@ -97,7 +97,7 @@ header{
 .header_right hr{
     color: gray;
     width: 220px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .contact_content{
@@ -111,7 +111,7 @@ header{
 .contact_item{
     width: 220px;
     float: left;
-    margin-left: 40px;
+    margin-left: 60px;
     font-size: 10px;
 }
 .info-container p.contact_item_content{
@@ -132,7 +132,7 @@ header{
     height:1px;
     border:none;
     border-top:1px dashed #dddddd;
-    margin-left: 40px;
+    margin-left: 50px;
 }
 
 .info-container{
@@ -141,20 +141,21 @@ header{
 }
 
 .middle{
-    width: auto;
+    width: 100%;
     height: 320px;
 }
 
 .middle_left{
-    width: 90%;
+    width: 100%;
     height: 300px;
     float: left;
 }
 .personal_information{
-    width: 200px;
+    width: 80%;
     height: 30px;
     margin-left: 50px;
     font-family:Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
     color: gray;
 }
 .personal_information_content{
@@ -174,7 +175,7 @@ header{
     margin-top: 10px;
 }
 .middle hr{
-    width: 90%;
+    width: 85%;
     border-top:1px;
     border-style:dashed;
     border-color:  gray;
@@ -182,14 +183,12 @@ header{
 }
 .personal_content{
     font-family:Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
     color: black;
     position: relative;
     left: 12px;
     top:10px;
     line-height: 1.5;
-}
-.personal_content td{
-    width: 50%;
 }
 .middle_right{
     width: 50%;
