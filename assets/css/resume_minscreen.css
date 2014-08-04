@@ -1,0 +1,589 @@
+html{
+    background-color: white;   
+}
+
+@media (min-width:300px) and (max-width: 1023px)  {
+    body{
+    width:90%;
+    height: auto;
+    background-color: white;
+    margin: auto;
+}
+a{
+    color:gray;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+
+.content{
+    height: 1680px;
+    width: 90%;
+    background-color: #fdfcf4;
+    margin: auto;
+    -webkit-box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
+    -moz-box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
+    box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
+}
+
+header{
+    width: 980px;
+    height: 400px;
+}
+
+.header_left{
+    width: 90%;
+    height: 180px;
+    font-family: Britannic Bold,sans-serif;
+    margin-left: 10px;
+    float: left;
+
+}
+.english-name{
+    width: auto;
+    float: left;
+    position: relative;
+    top:  15px;
+}
+.english-name p{
+    color: gray;
+    font-size: 60px;
+    margin-left: 20px;
+    width: auto;
+}
+.scan_me{
+    position: relative;
+    width:auto;
+    height: 120px;
+    float: left;
+    top: 20px;
+}
+
+.qrcode{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    left: 20px;
+    float: left;
+}
+.scan_me p{
+    float: left;
+    color: darkgray;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.header_right{
+    width: 90%;
+    height: 240px;
+    margin-right: 10px;
+    float: left;
+}
+
+.contact{
+    width: 140px;
+    height: 30px;
+    float: left;
+    margin-left:40px;
+    margin-top: 10px;
+    color: gray;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 25px;
+}
+
+.header_right hr{
+    color: gray;
+    width: 220px;
+    margin-top: 50px;
+}
+
+.contact_content{
+    position: relative;
+    width: 100%;
+    height: 120px;
+    float: left;
+    font-family:Geometr706 BlkCn BT,sans-serif;
+}
+
+.contact_item{
+    width: 220px;
+    float: left;
+    margin-left: 40px;
+    font-size: 10px;
+}
+.info-container p.contact_item_content{
+    position: relative;
+    width: 100%;
+    height: 20px;
+    float: left;
+    left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.contact_icon{
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+.contact_hr{
+    height:1px;
+    border:none;
+    border-top:1px dashed #dddddd;
+    margin-left: 40px;
+}
+
+.info-container{
+    float: left;
+    display: inline-block;
+}
+
+.middle{
+    width: auto;
+    height: 320px;
+}
+
+.middle_left{
+    width: 90%;
+    height: 300px;
+    float: left;
+}
+.personal_information{
+    width: 200px;
+    height: 30px;
+    margin-left: 50px;
+    font-family:Geometr706 BlkCn BT,sans-serif;
+    color: gray;
+}
+.personal_information_content{
+    position: relative;
+    width: 80%;
+    height: 20px;
+    float: left;
+    top: 15px;
+    left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.person_icon{
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+.middle hr{
+    width: 90%;
+    border-top:1px;
+    border-style:dashed;
+    border-color:  gray;
+    margin-left: 50px;
+}
+.personal_content{
+    font-family:Geometr706 BlkCn BT,sans-serif;
+    color: black;
+    position: relative;
+    left: 12px;
+    top:10px;
+    line-height: 1.5;
+}
+.personal_content td{
+    width: 50%;
+}
+.middle_right{
+    width: 50%;
+    float: right;
+}
+.skill_image{
+    width: 404;
+    height: 240px;
+}
+.skill_image img{
+    margin-left: 40px;
+}
+.job_objective{
+    width: 90%;
+    height: 170px;
+    float: left;
+}
+.job_objective hr{
+    width: 100%;
+    margin-left: 50px;
+    border-top:1px;
+    border-style:dashed;
+    border-color: gray;
+}
+.job_objective_content{
+/*
+    width: 200px;
+    height: 30px;
+*/
+    margin-left: 30px;
+    font-family:Geometr706 BlkCn BT,sans-serif;
+    color: black;
+    line-height: 2;
+}
+.my_experience{
+    width: auto;
+    height: 250px;
+    float: left;
+}
+.my_experience hr{
+    width: 90%;
+    border-top:1px;
+    border-style:dashed;
+    border-color: gray;
+    margin-left: 50px;
+}
+.experience_area{
+    width: 30%;
+    height: 230px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-bottom: 1px;
+    float: left;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    color: gray;
+    text-align: center;
+}
+
+.BA_title{
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color: #ffe879;
+    text-align: center;
+}
+.BA_content{
+    width: 100%;
+    height: 130px;
+    float: left;
+    border-left: 2px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: #ffe879;
+    background-color: white;
+}
+.BA_content p{
+    margin-top: 30px;
+}
+.PM_title{
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color: #fdcb40;
+    text-align: center;
+}
+.PM_content{
+    width: 292px;
+    height: 130px;
+    float: left;
+    border-left: 2px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: #fdcb40;
+    background-color: white;
+}
+.content_detail{
+    width: auto;
+    height: 100px;
+    margin-top: 30px;
+}
+.content_detail p{
+    position: relative;
+    top: 0px;
+    margin-top: 0px
+}
+.office_principal_title{
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color: #fed667;
+    text-align: center;
+}
+.office_principal_content{
+    width: 290px;
+    height: 130px;
+    float: left;
+    border-left: 2px;
+    border-bottom: 2px;
+    border-top: 0px;
+    border-right: 2px;
+    border-style: solid;
+    border-color: #fed667;
+    background-color: white;
+}
+.title_content{
+    width: 100%;
+    height: 30px;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    color: gray;
+    margin-top: 11px;
+}
+
+.about_me{
+    width: 90%;
+    height: 260px;
+    float: left;
+}
+.about_me hr{
+    width: 100%;
+    margin-left: 50px;
+    border-top:1px;
+    border-style: dashed;
+    border-color: gray;
+}
+.about_me_content{
+    width: 100%;
+    height: 200px;
+    position: relative;
+    top: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+.about_me_content p{
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    color: black;
+    position: relative;
+    float: left;
+    left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.project_experience{
+    width: 90%;
+    float: left;
+}
+.project_experience hr{
+    width: 100%;
+    margin-left: 50px;
+    border-top:1px;
+    border-style:dashed;
+    border-color: gray;
+}
+.line_content_top{
+    width: 100%;
+    height: 100px;
+    position: relative;
+    top: : 80px;
+}
+.protable_task{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    margin-left: 48px;
+    float: left;
+}
+.short_flag{
+    position: relative;
+    top: 70px;
+    float: left;
+}
+.line_content{
+    position: relative;
+    top: 70px;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.party_bid{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    float: left;
+}
+.line_content_high{
+    position: relative;
+    bottom: 62px;
+    left: 20px;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.flag{
+    position: relative;
+    top: 20px;
+}
+.line_content_bottom{
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+.sunshine_english{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    float: left;
+}
+.we_record{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    float: left;
+}
+.code_for_dream{
+    width: 120px;
+    height: 100px;
+    position: relative;
+    left: 72px;
+    float: left;
+}
+.finger_bang{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    left: 94px;
+    float: left;
+}
+.simple_rss{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    margin-left: 116px;
+    float: left;
+}
+.flag_down{
+    position: relative;
+    float: left;
+}
+.line_content_down{
+    position: relative;
+    top: 60px;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.travel_helper{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    left: 2px;
+    float: left;
+}
+.line_content_down_short{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.smart_client{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    margin-left: 40px;
+    float: left;
+}
+.time_line{
+    width: 100%;
+    height: 50px;
+    margin-left: 50px;
+}
+.first{
+    width: 8%;
+    height: 50px;
+    background-color: #fce122;
+    float: left;
+}
+.second{
+    width: 8%;
+    height: 50px;
+    background-color: #fcdb20;
+    float: left;
+}
+.third{
+    width: 8%;
+    height: 50px;
+    background-color: #fdd31d;
+    float: left;
+}
+.fourth{
+    width: 8%;
+    height: 50px;
+    background-color: #fdca1b;
+    float: left;
+}
+.fifth{
+    width: 8%;
+    height: 50px;
+    background-color: #fdbf16;
+    float: left;
+}
+
+.sixth{
+    width: 8%;
+    height: 50px;
+    background-color: #fdb413;
+    float: left;
+}
+.seventh{
+    width: 8%;
+    height: 50px;
+    background: #fea70f;
+    float: left;
+}
+.eighth{
+    width: 8%;
+    height: 50px;
+    background-color: #fe9c0c;
+    float: left;
+}
+.nineth{
+    width: 8%;
+    height: 50px;
+    background-color: #fe9108;
+    float: left;
+}
+.tenth{
+    width: 8%;
+    height: 50px;
+    background-color: #ff8705;
+    float: left;
+}
+.eleventh{
+    width: 8%;
+    height: 50px;
+    background-color: #ff7e02;
+    float: left;
+}
+.twelfth{
+    width: 8%;
+    height: 50px;
+    background-color: #ff7900;
+    float: left;
+}
+.future{
+    width: 4%;
+    height: 50px;
+    background-color: #ff7000;
+    float: left;
+}
+
+.my_rewards{
+    width: 90%;
+    height: 260px;
+    float: left;
+}
+.my_rewards hr{
+    width: 100%;
+    margin-left: 50px;
+    border-top:1px;
+    border-style:dashed;
+    border-color: gray;
+}
+
+}
+
+
