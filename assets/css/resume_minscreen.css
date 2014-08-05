@@ -124,7 +124,7 @@ header{
     height: 40px;
     float: left;
     left: 10px;
-    top: 15px;
+    top: 12px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -205,8 +205,10 @@ header{
     float: left;
 }
 .skill_image{
-    width: 600px;
-    height: 356px;
+    width: 90%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 .skill_image img{
     margin-left: 40px;
@@ -586,7 +588,7 @@ header{
 
 .my_rewards{
     width: 90%;
-    height: 300px;
+    height: auto;
     float: left;
 }
 .my_rewards hr{
