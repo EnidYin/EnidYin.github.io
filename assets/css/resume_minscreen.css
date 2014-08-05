@@ -19,7 +19,7 @@ a:hover{
 }
 
 .content{
-    height: 3000px;
+    height: 2850px;
     width: 100%;
     background-color: #fdfcf4;
     margin: auto;
@@ -434,7 +434,7 @@ header{
     height: 600px;
     position: relative;
     float: right;
-    right: 200px;
+    right: 215px;
     top: 10px;
 }
 .sunshine_english{
@@ -486,6 +486,8 @@ header{
 .flag_down_short{
     position: relative;
     float: right;
+    -moz-transform:scale(1，-1);
+    -webkit-transform:rotate(180deg);
 }
 .travel_helper{
     width: 100%;
