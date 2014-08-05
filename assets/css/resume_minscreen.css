@@ -4,7 +4,7 @@ html{
 
 @media (max-width: 1023px)  {
    body{
-    width:90%;
+    width:95%;
     height: auto;
     background-color: white;
     margin: auto;
@@ -19,7 +19,7 @@ a:hover{
 }
 
 .content{
-    height: 1680px;
+    height: 3000px;
     width: 100%;
     background-color: #fdfcf4;
     margin: auto;
