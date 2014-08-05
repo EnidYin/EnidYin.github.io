@@ -2,14 +2,15 @@ html{
     background-color: white;   
 }
 
-body{
-    width:1024px;
+@media (min-width: 1024px) {
+    body{
+    width:90%;
     height: auto;
     background-color: white;
     margin: auto;
 }
 a{
-    color:gray;
+    color:black;
     font-family: Geometr706 BlkCn BT,sans-serif;
     text-decoration: none;
 }
@@ -156,6 +157,7 @@ header{
     font-family:Geometr706 BlkCn BT,sans-serif;
     color: gray;
 }
+    
 .personal_information_content{
     position: relative;
     width: 80%;
@@ -185,6 +187,9 @@ header{
     left: 12px;
     top:10px;
     line-height: 1.5;
+}
+.personal_content td{
+    vertical-align: top;
 }
 .middle_right{
     width: 50%;
@@ -578,3 +583,7 @@ header{
     border-style:dashed;
     border-color: gray;
 }
+
+}
+
+
