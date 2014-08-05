@@ -10,7 +10,7 @@ html{
     margin: auto;
 }
 a{
-    color:gray;
+    color:black;
     font-family: Geometr706 BlkCn BT,sans-serif;
     text-decoration: none;
 }
@@ -78,7 +78,7 @@ header{
 
 .header_right{
     width: 35%;
-    height: 300px;
+    height: 200px;
     position: relative;
     left: 0px;
     right: 30px;
@@ -147,12 +147,12 @@ header{
 
 .middle{
     width: 100%;
-    height: 320px;
+    height: 230px;
 }
 
 .middle_left{
     width: 60%;
-    height: 300px;
+    height: 200px;
     float: left;
 }
 .personal_information{
@@ -383,14 +383,11 @@ header{
     border-color: gray;
 }
 .line_content_top{
-    width: 40%;
+    width: 35%;
     height: 100px;
     position: relative;
-/*
-    top: : 80px;
-*/
     float: right;
-    left: 100px;
+    left: 60px;
 }
 .protable_task{
     width: 100%;
@@ -433,11 +430,11 @@ header{
     top: 20px;
 }
 .line_content_bottom{
-    width: 40%;
+    width: 35%;
     height: 600px;
     position: relative;
     float: right;
-    right: 150px;
+    right: 200px;
     top: 10px;
 }
 .sunshine_english{
@@ -520,7 +517,7 @@ header{
     text-align: center;
 }
 .first{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fce122;
     margin: 0 auto;
@@ -529,74 +526,74 @@ header{
 */
 }
 .second{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fcdb20;
     margin: 0 auto;
 }
 .third{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fdd31d;
     margin: 0 auto;
 }
 .fourth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fdca1b;
     margin: 0 auto;
 }
 .fifth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fdbf16;
     margin: 0 auto;
 }
 
 .sixth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fdb413;
     margin: 0 auto;
 }
 .seventh{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background: #fea70f;
     margin: 0 auto;
 }
 .eighth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fe9c0c;
     margin: 0 auto;
 }
 .nineth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #fe9108;
     margin: 0 auto;
 }
 .tenth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #ff8705;
     margin: 0 auto;
 }
 .eleventh{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #ff7e02;
     margin: 0 auto;
 }
 .twelfth{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #ff7900;
     margin: 0 auto;
 }
 .future{
-    width: 30%;
+    width: 25%;
     height: 50px;
     background-color: #ff7000;
     margin: 0 auto;
