@@ -3,7 +3,7 @@ layout: post
 title: My Works in Zcool
 description: "Just Be Yourself"
 modified: 2013-11-28
-tags: [icons]
+tags: [My Works]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
