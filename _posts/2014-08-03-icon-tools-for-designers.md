@@ -1,7 +1,7 @@
 ---
 layout: post
 title: icon图标插件推荐
-description: "icon图标插件推荐"
+description: "工具推荐To设计师——icon插件"
 modified: 2014-08-03
 tags: [工具推荐]
 image:
