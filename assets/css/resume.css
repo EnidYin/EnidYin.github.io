@@ -1,14 +1,7 @@
 html{
     background-color: white;   
 }
-
 @media (min-width: 1024px) {
-    body{
-    width:90%;
-    height: auto;
-    background-color: white;
-    margin: auto;
-}
 a{
     color:black;
     font-family: Geometr706 BlkCn BT,sans-serif;
@@ -16,6 +9,13 @@ a{
 }
 a:hover{
     color: blue;
+}
+body{
+    width:90%;
+    height: auto;
+    background-color: white;
+    margin: auto;
+    font-family: Geometr706 BlkCn BT,sans-serif;
 }
 
 .content{
