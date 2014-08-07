@@ -85,12 +85,15 @@ header{
     float: right;
     margin-top: 30px;
     color: gray;
-/*
-    font-family: 黑体,sans-serif;
-*/
     font-size: 20px;
 }
-
+.contact_title_hr{
+    width: 90%;
+    border-top:1px;
+    border-style:dashed;
+    border-color:  gray;
+    margin-left: 50px;
+}
 .header_right hr{
     color: gray;
     width: 220px;

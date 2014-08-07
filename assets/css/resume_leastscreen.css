@@ -1,26 +1,26 @@
 html{
     background-color: white;   
 }
-@media (min-width: 1024px) {
+@media (max-width: 923px) {
 a{
     color:black;
-    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-family: 微软雅黑,sans-serif;
     text-decoration: none;
+    font-size: 20px;
 }
 a:hover{
     color: blue;
 }
 body{
-    width:90%;
+    width:95%;
     height: auto;
     background-color: white;
     margin: auto;
     font-family: Geometr706 BlkCn BT,sans-serif;
 }
-
 .content{
-    height: 1680px;
-    width: 980px;
+    height: 3500px;
+    width: 100%;
     background-color: #fdfcf4;
     margin: auto;
     -webkit-box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
@@ -29,12 +29,12 @@ body{
 }
 
 header{
-    width: 980px;
+    width: 100%;
     height: 230px;
 }
 
 .header_left{
-    width: 630px;
+    width: 100%;
     height: 200px;
     font-family: Britannic Bold,sans-serif;
     margin-left: 10px;
@@ -53,57 +53,25 @@ header{
     margin-left: 40px;
     width: auto;
 }
-.scan_me{
-    position: relative;
-    width:auto;
-    height: 120px;
-    float: left;
-    top: 20px;
-}
-
-.qrcode{
-    width: 90px;
-    height: 90px;
-    position: relative;
-    left: 20px;
-    float: left;
-}
-.scan_me p{
-    float: left;
-    color: darkgray;
-    position: relative;
-    top: 50px;
-    left: 50px;
-}
-
 .header_right{
-    width: 330px;
-    height: 200px;
-    margin-right: 10px;
-    float: right;
+    width: 100%;
+    height: 230px;
+    position: relative;
+    left: 0px;
+    right: 30px;
+    top: 10px;
+    float: left;
 }
 
 .contact{
-    width: 140px;
+   width: 140px;
     height: 30px;
-    float: right;
-    margin-right: 30px;
-    margin-top: 30px;
-    color: gray;
-    font-family: Geometr706 BlkCn BT,sans-serif;
-    font-size: 25px;
-}
-.contact_title_hr{
-    width: 90%;
-    border-top:1px;
-    border-style:dashed;
-    border-color:  gray;
-    margin-left: 50px;
-}
-.header_right hr{
-    color: gray;
-    width: 220px;
+    float: left;
+    margin-bottom: 10px;
     margin-top: 20px;
+    margin-left: 50px;
+    color: gray;
+    font-size: 20px;
 }
 
 .contact_content{
@@ -113,63 +81,78 @@ header{
     float: left;
     font-family:Geometr706 BlkCn BT,sans-serif;
 }
-
+.contact_hr{
+    width: 90%;
+    border-top:1px;
+    border-style:  dashed;
+    border-color: #dddddd;
+    margin-left: 50px;
+}
 .contact_item{
-    width: 220px;
+    width: 100%;
     float: left;
     margin-left: 60px;
-    font-size: 10px;
+    font-size: 15px;
 }
 .info-container p.contact_item_content{
     position: relative;
-    width: 100%;
-    height: 20px;
+    width: auto;
+    height: 40px;
     float: left;
     left: 10px;
+    top: 12px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
 .contact_icon{
     float: left;
     width: 30px;
     height: 30px;
 }
 .contact_hr{
-    height:1px;
-    border:none;
-    border-top:1px dashed #dddddd;
+    width: 90%;
+    border-top:1px;
+    border-style:  dashed;
+    border-color: #dddddd;
     margin-left: 50px;
 }
-
+.contact_title_hr{
+    width: 90%;
+    border-top:1px;
+    border-style:dashed;
+    border-color:  gray;
+    margin-left: 50px;
+}
 .info-container{
     float: left;
     display: inline-block;
 }
 
 .middle{
-    width: auto;
-    height: 320px;
+    width: 100%;
+    height: 230px;
 }
 
 .middle_left{
-    width: 50%;
-    height: 300px;
+    width: 100%;
+    height: auto;
     float: left;
+    margin-bottom: 10px;
 }
 .personal_information{
-    width: 200px;
+    width: 80%;
     height: 30px;
     margin-left: 50px;
-    font-family:Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
     color: gray;
 }
-    
 .personal_information_content{
     position: relative;
     width: 80%;
     height: 20px;
     float: left;
-    top: 15px;
+    top: 10px;
     left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -181,58 +164,47 @@ header{
     margin-top: 10px;
 }
 .middle hr{
-    width: 80%;
+    width: 90%;
     border-top:1px;
     border-style:dashed;
     border-color:  gray;
+    margin-left: 50px;
 }
 .personal_content{
-    font-family:Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
     color: black;
     position: relative;
-    left: 12px;
     top:10px;
+    font-family:  Geometr706 BlkCn BT,sans-serif;
+    margin-left: 18px;
+    margin-right: 10px;
     line-height: 1.5;
+}
+.personal_content a{
+    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
+}
+.personal_content table{
+    width: 100%;
 }
 .personal_content td{
     vertical-align: top;
 }
 .middle_right{
-    width: 50%;
-    float: right;
+    width: 100%;
+    float: left;
 }
 .skill_image{
-    width: 404;
-    height: 240px;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
 }
 .skill_image img{
     margin-left: 40px;
 }
-.job_objective{
-    width: 90%;
-    height: 170px;
-    float: left;
-}
-.job_objective hr{
-    width: 100%;
-    margin-left: 50px;
-    border-top:1px;
-    border-style:dashed;
-    border-color: gray;
-}
-.job_objective_content{
-/*
-    width: 200px;
-    height: 30px;
-*/
-    margin-left: 30px;
-    font-family:Geometr706 BlkCn BT,sans-serif;
-    color: black;
-    line-height: 2;
-}
 .my_experience{
     width: auto;
-    height: 250px;
+    height: 600px;
     float: left;
 }
 .my_experience hr{
@@ -243,14 +215,14 @@ header{
     margin-left: 50px;
 }
 .experience_area{
-    width: 30%;
-    height: 230px;
+    width: 90%;
+    height: 172px;
     position: relative;
     left: 50px;
     top: 20px;
     border-bottom: 1px;
     float: left;
-    font-family: Geometr706 BlkCn BT,sans-serif;
+    font-size: 20px;
     color: gray;
     text-align: center;
 }
@@ -261,15 +233,16 @@ header{
     float: left;
     background-color: #ffe879;
     text-align: center;
+    border-right: 4px solid #ffe879;
 }
 .BA_content{
-    width: 100%;
+    width: 100%;;
     height: 130px;
     float: left;
     border-left: 2px;
     border-bottom: 2px;
     border-top: 0px;
-    border-right: 0px;
+    border-right: 2px;
     border-style: solid;
     border-color: #ffe879;
     background-color: white;
@@ -283,15 +256,16 @@ header{
     float: left;
     background-color: #fdcb40;
     text-align: center;
+    border-right: 4px solid #fdcb40;
 }
 .PM_content{
-    width: 292px;
+    width: 100%;
     height: 130px;
     float: left;
     border-left: 2px;
     border-bottom: 2px;
     border-top: 0px;
-    border-right: 0px;
+    border-right: 2px;
     border-style: solid;
     border-color: #fdcb40;
     background-color: white;
@@ -312,9 +286,10 @@ header{
     float: left;
     background-color: #fed667;
     text-align: center;
+    border-right: 4px solid #fed667;
 }
 .office_principal_content{
-    width: 290px;
+    width: 100%;
     height: 130px;
     float: left;
     border-left: 2px;
@@ -328,7 +303,6 @@ header{
 .title_content{
     width: 100%;
     height: 30px;
-    font-family: Geometr706 BlkCn BT,sans-serif;
     color: gray;
     margin-top: 11px;
 }
@@ -355,16 +329,17 @@ header{
     line-height: 1.5;
 }
 .about_me_content p{
-    font-family: Geometr706 BlkCn BT,sans-serif;
     color: black;
     position: relative;
     float: left;
     left: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-size: 20px;
 }
 .project_experience{
     width: 90%;
+    height: auto;
     float: left;
 }
 .project_experience hr{
@@ -375,33 +350,41 @@ header{
     border-color: gray;
 }
 .line_content_top{
+    width: 35%;
+    height: 600px;
+    position: relative;
+    float: right;
+    left: 50px;
+}
+.line_content_top a{
+    font-size: 15px;
+}
+.protable_task{
     width: 100%;
     height: 100px;
     position: relative;
-    top: : 80px;
-}
-.protable_task{
-    width: 140px;
-    height: 100px;
-    position: relative;
-    margin-left: 48px;
     float: left;
 }
 .short_flag{
     position: relative;
-    top: 70px;
+    top: 10px;
     float: left;
 }
 .line_content{
     position: relative;
-    top: 70px;
-    font-family: Geometr706 BlkCn BT,sans-serif;
-    font-size: 10px;
+    top: 10px;
+/*    font-family: Geometr706 BlkCn BT,sans-serif;*/
+    font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
+    left: 10px;
+    float: left;
+}
+.line_content a{
+    font-family: Geometr706 BlkCn BT,sans-serif;
 }
 .party_bid{
-    width: 140px;
+    width: 80%;
     height: 100px;
     position: relative;
     float: left;
@@ -409,52 +392,58 @@ header{
 .line_content_high{
     position: relative;
     bottom: 62px;
-    left: 20px;
-    font-family: Geometr706 BlkCn BT,sans-serif;
-    font-size: 10px;
+    left: 30px;
+    font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+.line_content_high a{
+    font-family: Geometr706 BlkCn BT,sans-serif;
 }
 .flag{
     position: relative;
     top: 20px;
 }
 .line_content_bottom{
-    width: 100%;
-    height: 100px;
+    width: 35%;
+    height: 600px;
     position: relative;
+    top: 10px;
+}
+.line_content_bottom a{
+    font-size: 15px;
 }
 .sunshine_english{
-    width: 140px;
+    width: 80%;
     height: 100px;
     position: relative;
     float: left;
 }
 .we_record{
-    width: 140px;
+    width: 80%;
     height: 100px;
     position: relative;
     float: left;
 }
 .code_for_dream{
-    width: 120px;
+    width: 80%;
     height: 100px;
     position: relative;
-    left: 72px;
+/*    left: 72px;*/
     float: left;
 }
 .finger_bang{
-    width: 140px;
+    width: 80%;
     height: 100px;
     position: relative;
-    left: 94px;
+/*    left: 94px;*/
     float: left;
 }
 .simple_rss{
-    width: 140px;
+    width: 100%;
     height: 100px;
     position: relative;
-    margin-left: 116px;
+/*    margin-left: 116px;*/
     float: left;
 }
 .flag_down{
@@ -464,122 +453,128 @@ header{
 .line_content_down{
     position: relative;
     top: 60px;
-    font-family: Geometr706 BlkCn BT,sans-serif;
     font-size: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.flag_down_short{
+    position: relative;
+    float: right;
+    -moz-transform:scale(1，-1);
+    -webkit-transform:rotate(180deg);
+}
 .travel_helper{
-    width: 140px;
+    width: 100%;
     height: 100px;
     position: relative;
-    left: 2px;
+/*    left: 2px;*/
     float: left;
 }
 .line_content_down_short{
     position: relative;
-    bottom: 20px;
-    left: 20px;
-    font-family: Geometr706 BlkCn BT,sans-serif;
-    font-size: 10px;
+    font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
+    float: right;
+}
+.line_content_down_short a{
+    font-family: Geometr706 BlkCn BT,sans-serif;
 }
 .smart_client{
-    width: 140px;
+    width: 100%;
     height: 100px;
     position: relative;
-    margin-left: 40px;
+/*    margin-left: 40px;*/
     float: left;
 }
 .time_line{
-    width: 100%;
+/*    width: 100%;*/
     height: 50px;
     margin-left: 50px;
+    text-align: center;
 }
 .first{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fce122;
-    float: left;
+    margin: 0 auto;
 }
 .second{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fcdb20;
-    float: left;
+    margin: 0 auto;
 }
 .third{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fdd31d;
-    float: left;
+    margin: 0 auto;
 }
 .fourth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fdca1b;
-    float: left;
+    margin: 0 auto;
 }
 .fifth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fdbf16;
-    float: left;
+    margin: 0 auto;
 }
 
 .sixth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fdb413;
-    float: left;
+    margin: 0 auto;
 }
 .seventh{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background: #fea70f;
-    float: left;
+    margin: 0 auto;
 }
 .eighth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fe9c0c;
-    float: left;
+    margin: 0 auto;
 }
 .nineth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #fe9108;
-    float: left;
+    margin: 0 auto;
 }
 .tenth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #ff8705;
-    float: left;
+    margin: 0 auto;
 }
 .eleventh{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #ff7e02;
-    float: left;
+    margin: 0 auto;
 }
 .twelfth{
-    width: 8%;
+    width: 25%;
     height: 50px;
     background-color: #ff7900;
-    float: left;
+    margin: 0 auto;
 }
 .future{
-    width: 4%;
+    width: 25%;
     height: 50px;
     background-color: #ff7000;
-    float: left;
+    margin: 0 auto;
 }
-
 .my_rewards{
     width: 90%;
-    height: 260px;
+    height: auto;
     float: left;
 }
 .my_rewards hr{
@@ -589,7 +584,4 @@ header{
     border-style:dashed;
     border-color: gray;
 }
-
 }
-
-
