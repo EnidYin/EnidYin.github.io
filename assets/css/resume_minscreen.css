@@ -79,7 +79,7 @@ header{
 
 .header_right{
     width: 35%;
-    height: 200px;
+    height: 230px;
     position: relative;
     left: 0px;
     right: 30px;
@@ -200,7 +200,7 @@ header{
     color: black;
     position: relative;
     left: 12px;
-    top:10px;
+    top:5px;
     line-height: 1.5;
 }
 .personal_content td{
