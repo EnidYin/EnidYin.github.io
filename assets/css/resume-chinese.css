@@ -3,9 +3,9 @@ html{
 }
 @media (min-width: 1024px){
 a{
-    color:black;
+    color:blue;
+    text-decoration: underline;
     font-family: 微软雅黑,sans-serif;
-    text-decoration: none;
 }
 a:hover{
     color: blue;
@@ -365,9 +365,12 @@ header{
     float: left;
 }
 .short_flag{
+    width: 20px;
+    height: 29px;
     position: relative;
-    top: 70px;
+    top: 71px;
     float: left;
+    background-image: url(/images/flag_short.png);
 }
 .line_content{
     position: relative;
@@ -393,6 +396,9 @@ header{
     margin-bottom: 0px;
 }
 .flag{
+    width: 20px;
+    height: 80px;
+    background-image: url(/images/flag.png);
     position: relative;
     top: 20px;
 }
@@ -437,6 +443,12 @@ header{
 .flag_down{
     position: relative;
     float: left;
+}
+.flag_down_short{
+    width: 20px;
+    height: 29px;
+    position: relative;
+    background-image: url(/images/flag_short_down.png);
 }
 .line_content_down{
     position: relative;

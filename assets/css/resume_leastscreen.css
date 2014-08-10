@@ -3,9 +3,9 @@ html{
 }
 @media (max-width: 923px) {
 a{
-    color:black;
+    color:blue;
+    text-decoration: underline;
     font-family: 微软雅黑,sans-serif;
-    text-decoration: none;
     font-size: 20px;
 }
 a:hover{
@@ -27,7 +27,6 @@ body{
     -moz-box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
     box-shadow: 0 17px 37px 6px rgba(237,234,220,.5);
 }
-
 header{
     width: 100%;
     height: 230px;
@@ -338,23 +337,23 @@ header{
     font-size: 20px;
 }
 .project_experience{
-    width: 90%;
-    height: auto;
+    width: 100%;
+    height: 720px;
     float: left;
 }
 .project_experience hr{
-    width: 100%;
+    width: 90%;
     margin-left: 50px;
     border-top:1px;
     border-style:dashed;
     border-color: gray;
 }
 .line_content_top{
-    width: 35%;
+    width: 37%;
     height: 600px;
     position: relative;
     float: right;
-    left: 50px;
+    top: 3px;
 }
 .line_content_top a{
     font-size: 15px;
@@ -366,6 +365,9 @@ header{
     float: left;
 }
 .short_flag{
+    width: 29px;
+    height: 20px;
+    background-image: url(/images/short_circle_right.png);
     position: relative;
     top: 10px;
     float: left;
@@ -373,7 +375,6 @@ header{
 .line_content{
     position: relative;
     top: 10px;
-/*    font-family: Geometr706 BlkCn BT,sans-serif;*/
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -391,8 +392,8 @@ header{
 }
 .line_content_high{
     position: relative;
-    bottom: 62px;
-    left: 30px;
+    bottom: 10px;
+    left: 90px;
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -401,14 +402,20 @@ header{
     font-family: Geometr706 BlkCn BT,sans-serif;
 }
 .flag{
-    position: relative;
-    top: 20px;
-}
-.line_content_bottom{
-    width: 35%;
-    height: 600px;
+    width: 80px;
+    height: 20px;
+    background-image: url(/images/circle_right.png);
     position: relative;
     top: 10px;
+}
+.line_content_bottom{
+    width: 37%;
+    height: 600px;
+    position: relative;
+    bottom: 585px;
+/*
+    margin-left: 18px;
+*/
 }
 .line_content_bottom a{
     font-size: 15px;
@@ -443,7 +450,6 @@ header{
     width: 100%;
     height: 100px;
     position: relative;
-/*    margin-left: 116px;*/
     float: left;
 }
 .flag_down{
@@ -458,10 +464,11 @@ header{
     margin-bottom: 0px;
 }
 .flag_down_short{
+    width: 29px;
+    height: 20px;
+    background-image: url(/images/short_circle_left.png);
     position: relative;
     float: right;
-    -moz-transform:scale(1，-1);
-    -webkit-transform:rotate(180deg);
 }
 .travel_helper{
     width: 100%;
@@ -472,10 +479,12 @@ header{
 }
 .line_content_down_short{
     position: relative;
+    font-family: Geometr706 BlkCn BT,sans-serif;
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
     float: right;
+    right: 10px;
 }
 .line_content_down_short a{
     font-family: Geometr706 BlkCn BT,sans-serif;
@@ -488,86 +497,88 @@ header{
     float: left;
 }
 .time_line{
-/*    width: 100%;*/
-    height: 50px;
-    margin-left: 50px;
+    width: 25%;
+    height: auto;
+    margin: 0 auto;
     text-align: center;
+    position: relative;
+    top: 22px;
 }
 .first{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fce122;
     margin: 0 auto;
 }
 .second{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fcdb20;
     margin: 0 auto;
 }
 .third{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fdd31d;
     margin: 0 auto;
 }
 .fourth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fdca1b;
     margin: 0 auto;
 }
 .fifth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fdbf16;
     margin: 0 auto;
 }
 
 .sixth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fdb413;
     margin: 0 auto;
 }
 .seventh{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background: #fea70f;
     margin: 0 auto;
 }
 .eighth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fe9c0c;
     margin: 0 auto;
 }
 .nineth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #fe9108;
     margin: 0 auto;
 }
 .tenth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #ff8705;
     margin: 0 auto;
 }
 .eleventh{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #ff7e02;
     margin: 0 auto;
 }
 .twelfth{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #ff7900;
     margin: 0 auto;
 }
 .future{
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #ff7000;
     margin: 0 auto;
