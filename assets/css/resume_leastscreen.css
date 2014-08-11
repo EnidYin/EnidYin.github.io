@@ -3,13 +3,10 @@ html{
 }
 @media (max-width: 923px) {
 a{
-    color:#f39c11;
+    color:#fd9d03;
     text-decoration: underline;
     font-family: 微软雅黑,sans-serif;
     font-size: 20px;
-}
-a:hover{
-    color: blue;
 }
 body{
     width:95%;
