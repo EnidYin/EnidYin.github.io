@@ -3,7 +3,7 @@ html{
 }
 @media (min-width: 1024px){
 a{
-    color:blue;
+    color:#f39c11;
     text-decoration: underline;
     font-family: 微软雅黑,sans-serif;
 }
@@ -343,6 +343,7 @@ header{
 .project_experience{
     width: 90%;
     float: left;
+    color: gray;
 }
 .project_experience hr{
     width: 100%;

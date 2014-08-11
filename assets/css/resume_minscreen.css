@@ -10,7 +10,7 @@ html{
     margin: auto;
 }
 a{
-    color:blue;
+    color:#f39c11;
     text-decoration: underline;
     font-family: Geometr706 BlkCn BT,sans-serif;
     font-size: 20px;
@@ -382,6 +382,7 @@ header{
     width: 100%;
     height: 720px;
     float: left;
+    color: gray;
 }
 .project_experience hr{
     width: 90%;
