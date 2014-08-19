@@ -369,7 +369,7 @@ header{
     position: relative;
     top: 71px;
     float: left;
-    background-image: url(/images/flag_short.png);
+    background-image: url(/images/flag_short.PNG);
 }
 .line_content{
     position: relative;
