@@ -14,7 +14,9 @@ share: true
 
 这是北京的早高峰。
 
-<img src="/images/blog/2014-08-27-the-cities%2560-face/8am-in-beijing.jpg"/>
+<div style="text-align:center">
+    <img src="/images/blog/2014-08-27-the-cities%2560-face/8am-in-beijing.jpg"/>
+</div>
 
 镜头拉近再放慢倍速，来自艺术家Adam Magya在柏林的TEDx沙龙上展示的作品。
 
