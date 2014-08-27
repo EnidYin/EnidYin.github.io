@@ -16,6 +16,6 @@ share: true
 
 <div style="text-align:center">
     <figure>
-        <img src="/images/blog/2014-08-27-the-cities%2560-face/8am-in-beijing.jpg"/>
+        <img src="/images/blog/8am-in-beijing.jpg"/>
     </figure>
 </div>
