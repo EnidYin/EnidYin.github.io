@@ -20,7 +20,7 @@ share: true
 
 <img src="/images/blog/2014-08-27-the-cities%2560-face/slowly-faces-in-beijing-subway.gif"/>
 
-
+每个人脸上
 
 
 
