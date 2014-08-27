@@ -34,7 +34,7 @@ share: true
 
 <div style="text-align:center">
     <figure>
-        <a><img src="/images/blog/2014-08-27-the-cities%2560-face/tired.jpg"/></a>
+        <a><img src="/images/blog/tired.jpg"/></a>
     </figure>
 </div>
 
