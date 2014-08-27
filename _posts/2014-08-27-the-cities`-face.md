@@ -16,6 +16,15 @@ share: true
 
 <div style="text-align:center">
     <figure>
-        <img src="/images/blog/8am-in-beijing.jpg"/>
+        <a><img src="/images/blog/8am-in-beijing.jpg"/></a>
     </figure>
 </div>
+
+镜头拉近再放慢倍速，来自艺术家Adam Magya在柏林的TEDx沙龙上展示的作品。
+
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/slowly-faces-in-beijing-subway.gif"/></a>
+    </figure>
+</div>
+
