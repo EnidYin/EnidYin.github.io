@@ -9,3 +9,13 @@ image:
 comments: true
 share: true
 ---
+
+早8点，是每座城市的早高峰。
+
+这是北京的早高峰。
+
+<div style="text-align:center">
+    <iframe>
+        <img src="/images/blog/2014-08-27-the-cities%2560-face/8am-in-beijing.jpg"/>
+    </iframe>
+</div>
