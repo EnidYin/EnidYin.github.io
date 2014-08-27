@@ -10,6 +10,8 @@ comments: true
 share: true
 ---
 
+一段图片之旅，一起来感受表情的力量。
+
 早8点，是每座城市的早高峰。
 
 这是北京的早高峰。
@@ -40,6 +42,22 @@ share: true
 
 表情的感染力可以直达人心。当我们为压抑情绪懊丧难过时，抬起头看到鼓励的笑脸总能有温暖直入心底。当我们为失败捶胸顿足时，看到大大的微笑总能瞬间驱走心霾，即使只有那么一瞬。
 
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/smiling-faces.jpg"/></a>
+    </figure>
+</div>
+
 那我们为什么不把这种表情的力量放大在城市里，微缩在公共交通的视线内。
+
+这是韩国的呆萌公交车，虽然满大街都跑着这种大眼仔让人不由觉得这真是个爱卖萌的国家，但这个国家已经在考虑乘坐公共交通人群的情感。
+
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/bus-in-Korea.jpg"/></a>
+    </figure>
+</div>
+
+以下图片为博主YY后的PS渣图。
 
 
