@@ -58,6 +58,20 @@ share: true
     </figure>
 </div>
 
-以下图片为博主YY后的PS渣图。
+接下来的图片，来自我心里的“如果...”
 
+如果我们用
 
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/smiling-face-in-subway.jpg"/></a>
+    </figure>
+</div>
+
+来代替
+
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/subway-passageway-2.jpg"/></a>
+    </figure>
+</div>
