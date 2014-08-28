@@ -75,3 +75,19 @@ share: true
         <a><img src="/images/blog/subway-passageway-2.jpg"/></a>
     </figure>
 </div>
+
+如果我们用一座城市深深的善意来面对这座城市内的人，和外来打拼的“城漂”们（原谅我杜撰了概念词，城漂：各个城市的外地人总称）。
+
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/tickets.jpg"/></a>
+    </figure>
+</div>
+
+而不是充斥城市的俊男美女手持奢侈品奔跑在海滩边的微笑场景，令人顿时感受到这座城市的满满疏离感。虽然事实上，它的确只属于成功者，也没人愿意当loser。但总觉得，人该为梦想奔忙，而不是为物质，或不仅仅是。
+
+<div style="text-align:center">
+    <figure>
+        <a><img src="/images/blog/gucci.jpg"/></a>
+    </figure>
+</div>
