@@ -102,7 +102,7 @@ share: true
     </figure>
 </div>
 
-亦或许，我们也能对广场舞大妈多谢理解。
+亦或许，我们也能对广场舞大妈多一些理解。
 
 <div style="text-align:center">
     <figure>
