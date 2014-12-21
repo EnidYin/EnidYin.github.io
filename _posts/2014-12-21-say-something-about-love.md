@@ -2,10 +2,10 @@
 layout: post
 title: 关于爱情
 description: 我知道看到这个标题你就会读下去了所以还用毛线文章说明
-modified: 2014-12-14
+modified: 2014-12-21
 tags: [毛线谈爱情]
 image:
-  feature: empty-chair.jpg
+  feature: empty-chair.JPG
 ---
 
 作为一个文艺女变态，时长蹦出些又文艺又变态（不自觉脑补了几米的《又寂寞又美好》）的话。那我就慢慢随随便便的记下来，留着自己孤独终老的时候慢慢读：）
